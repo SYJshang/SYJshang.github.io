@@ -15,11 +15,7 @@ title: 关于我
 
 <p>
 
-这个博客是我平常记录一些东西在这上边更新，大家一块学习进步。模板使用<a href="https://github.com/leopardpan"> leopardpan </a>提供。感谢
-
-
-有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
-
+这个博客是我平常记录一些东西在这上边更新，大家一块学习进步。模板使用<a href="https://github.com/leopardpan"> leopardpan </a>提供。感谢！
 
 {% include comments.html %}
 
