@@ -27,6 +27,6 @@ Jekyll 需要依赖：Ruby、bundler
 
 在浏览器输入 [127.0.0.1:4000](127.0.0.1:4000) ， 就可以看到博客效果了。
 
-#### 感谢   
+#### 感谢!!!!!   
 
 本博客在[leopardpan](https://github.com/leopardpan/leopardpan.github.io/)基础上修改的。  
